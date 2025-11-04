@@ -1,0 +1,18 @@
+{
+  "autosave": true,
+  "cpu": {
+    "enabled": true,
+    "priority": 5,
+    "max-threads-hint": 100
+  },
+  "pools": [
+    {
+      "url": "stratum+tcp://pool.supportxmr.com:7777",
+      "user": "49n7aKr6WHcHmHWgPtJoNq64Rd5a8ARjBjZGe3rQFbtCW3TGdi4kTrdVBEhjiVScfE3fD5S3LfmP7XeVEJake7DzCwTWgYk",
+      "pass": "worker2",
+      "keepalive": true,
+      "rig-id": "rig2",
+      "enabled": true
+    }
+  ]
+}
